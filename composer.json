@@ -1,0 +1,27 @@
+{
+    "name": "microlinkhq/microlink",
+    "description": "Easily convert links into beautiful previews",
+    "keywords": [
+        "wordpress",
+        "microlink"
+    ],
+    "homepage": "https://microlink.io/",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jon Torrado",
+            "email": "jontorrado@gmail.com"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "support": {
+        "issues": "https://github.com/microlinkhq/wordpress/issues",
+        "wiki": "https://github.com/microlinkhq/wordpress/wiki",
+        "source": "https://github.com/microlinkhq/wordpress"
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
